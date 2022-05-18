@@ -2,3 +2,5 @@ Welcome to EPAM
 Welcome to GPREC
 Hello to all
 Have a nice day
+
+Today we discuss Query processing
